@@ -1,0 +1,17 @@
+{
+  "name": "one-dark-transparent-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark transparent syntax theme",
+  "keywords": [
+    "dark",
+    "blue",
+    "transparent",
+    "syntax"
+  ],
+  "repository": "https://github.com/atom/one-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}

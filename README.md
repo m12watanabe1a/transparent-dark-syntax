@@ -1,3 +1,3 @@
-## One Dark Transparent Syntax theme
+## Transparent Dark Syntax theme
 
 ### Install
